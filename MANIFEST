@@ -2,6 +2,7 @@ Build.PL
 Changes
 lib/Acme/Pod/MathJax.pm
 MANIFEST			This list of files
-t/compile.t
-META.yml
 META.json
+META.yml
+README.pod
+t/compile.t
