@@ -33,7 +33,7 @@
    "provides" : {
       "Acme::Pod::MathJax" : {
          "file" : "lib/Acme/Pod/MathJax.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
@@ -48,5 +48,5 @@
          "url" : "http://github.com/jberger/Acme-Pod-MathJax"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }

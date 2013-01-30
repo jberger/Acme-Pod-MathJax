@@ -18,11 +18,11 @@ no_index:
 provides:
   Acme::Pod::MathJax:
     file: lib/Acme/Pod/MathJax.pm
-    version: 0.02
+    version: 0.03
 requires:
   perl: v5.8.0
 resources:
   bugtracker: http://github.com/jberger/Acme-Pod-MathJax/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/jberger/Acme-Pod-MathJax
-version: 0.02
+version: 0.03

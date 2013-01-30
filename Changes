@@ -1,6 +1,9 @@
 Revision history for Perl module Acme::Pod::MathJax.
 
 0.02  January 30, 2013
+	- use =begin html rather than =for html
+
+0.02  January 30, 2013
 	- remove unnecessary escapes
 	- added script loader in pod section
 
