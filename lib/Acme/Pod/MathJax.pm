@@ -3,7 +3,7 @@ package Acme::Pod::MathJax;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 $VERSION = eval $VERSION;
 
 1;
@@ -93,7 +93,7 @@ All content except math examples Copyright (C) 2013 by Joel Berger
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
-=for html
+=begin html
 
 <script>
 
@@ -109,6 +109,8 @@ function loadMathJax () {
 (function(){loadMathJax();})();
 
 </script>
+
+=end html
 
 =cut
 
